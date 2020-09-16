@@ -1,1 +1,12 @@
 This is a git repo
+
+Command lines:
+
+
+git init Mytest
+git add README
+git add sample.f
+git commit -m "my first commit"
+git remote add origin https://github.com/pcholanda73/Mytest.git
+git branch -M master
+git push -u origin master
