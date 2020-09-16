@@ -13,5 +13,6 @@ git push -u origin master
 
 for new updates:
 
+git add README
 git commit -m "my second commit"
 git push -u origin master
